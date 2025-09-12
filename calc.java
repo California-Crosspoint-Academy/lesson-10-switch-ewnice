@@ -1,5 +1,5 @@
 import java.util.*;
-public class L10 {
+public class calcx {
     public static void main(String[] args) {
 
         System.out.println("Choose below:\n");
